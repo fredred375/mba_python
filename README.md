@@ -2,10 +2,11 @@
 
 ## Requirements
 
-- Python3 installed
+- Python
+- Pip
 
 ```
-pip install -r requirments.txt
+pip install - r requirements.txt
 ```
 
 ## Run
